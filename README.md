@@ -2,7 +2,7 @@
 
 Browser extensions with Cat Facts API (https://alexwohlbruck.github.io/cat-facts/)
 
-![Screen]('/assets/images/screen.png')
+<img src='./assets/images/screen.png' height="200" width="500">
 
 ## Getting Started
 
